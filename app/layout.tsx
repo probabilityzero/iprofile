@@ -16,21 +16,8 @@ const firaSans = Fira_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Md. Arif Azam - Contact',
-  description: 'National Sales Head at Spartan Hazel Enterprises Pvt Ltd.',
-  icons: {
-    icon: [
-      { url: '/favicon/favicon.ico' },
-      { url: '/favicon/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
-      { url: '/favicon/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
-    ],
-    apple: [
-      { url: '/favicon/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
-    ],
-    other: [
-      { rel: 'mask-icon', url: '/favicon/safari-pinned-tab.svg', color: '#ED1C24' },
-    ],
-  },
+  title: 'iProfile',
+  description: 'Build your digital business card & portfolio in minutes. Share your professional profile with a custom domain.',
   manifest: '/favicon/site.webmanifest',
   themeColor: '#ED1C24',
   appleWebApp: {
